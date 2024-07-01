@@ -1,5 +1,5 @@
 const config = {
-    apiUrl: process.env.REACT_APP_API_URL || 'http://localhost:4000/api/v1',
+    apiUrl: process.env.REACT_APP_API_URL || 'https://order-management-system.onrender.com',
 }
 
 export default config
